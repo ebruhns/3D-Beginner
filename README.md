@@ -1,4 +1,4 @@
-# 410 Assignment 2 
+# 410 Assignment 2
 Brenna Stutenroth, Ellie ____, and Shane Folden
 
 
@@ -9,9 +9,8 @@ Brenna Stutenroth, Ellie ____, and Shane Folden
 
 ## Dot Product Element
 To view the dot product element in the game, walk near any of the gargoyles in the map. The nearest one is in the top left of the room you spawn in.
-The gargoyle will rotate his position to face the player, which is done using a dot product to calculate the correct angle. 
+The gargoyle will rotate his position to face the player, which is done using a dot product to calculate the correct angle.
 
-
-
-
-
+## particle effect
+The particle effect I created can be seen at the foot of our player, John Lemon.  These
+particles circle around him, and will move with the character.
