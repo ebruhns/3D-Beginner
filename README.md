@@ -1,5 +1,5 @@
 # 410 Assignment 2
-Brenna Stutenroth, Ellie ____, and Shane Folden
+Brenna Stutenroth, Ellie Bruhns, and Shane Folden
 
 
 ## Division of Labor
@@ -14,3 +14,6 @@ The gargoyle will rotate his position to face the player, which is done using a 
 ## particle effect
 The particle effect I created can be seen at the foot of our player, John Lemon.  These
 particles circle around him, and will move with the character.
+
+## interpolate element
+The interpolate element uses color lerp and math lerp to change the colors of the ghost materials. The colors cycle from red, blue, green, pink, yellow, orange and white. 
