@@ -2,7 +2,7 @@
 Brenna Stutenroth, Ellie ____, and Shane Folden
 
 
-##Division of Labor
+## Division of Labor
 Brenna did player Part 1, player Part 2, and the particle effect
 
 Ellie did environment, camera, ending the game, audio, and the linear interpolation element
